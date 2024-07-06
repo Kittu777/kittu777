@@ -1,7 +1,1 @@
-Use 
-```
-git status
-git add
-git commit
-```
-to list all new or `modified files` that haven't yet been committed.
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
